@@ -1,4 +1,6 @@
-[![azure-bicep-workshop](https://github.com/erudinsky/Azure-Bicep-Workshop/actions/workflows/azure-bicep-workshop.yml/badge.svg?branch=main&event=push)](https://github.com/erudinsky/Azure-Bicep-Workshop/actions/workflows/azure-bicep-workshop.yml)
+# under development 🚧
+
+<!-- [![azure-bicep-workshop](https://github.com/erudinsky/Azure-Bicep-Workshop/actions/workflows/azure-bicep-workshop.yml/badge.svg?branch=main&event=push)](https://github.com/erudinsky/Azure-Bicep-Workshop/actions/workflows/azure-bicep-workshop.yml)
 
 ## Introduction
 
@@ -131,4 +133,4 @@ I’m Evgeny Rudinsky, an Cloud Architect based in The Netherlands and author of
 
 Follow me on [@evgenyrudinsky](https://twitter.com/evgenyrudinsky) and check [my blog](https://erudinsky.com/) if interested in DevOps, cloud native and application security.
 
-Good luck! 🍀
+Good luck! 🍀 -->
